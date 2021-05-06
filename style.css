@@ -1,3 +1,9 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
+
+section {
+	background-image: url('./main-photo.jpg');
+	background-size: cover;
+	height: 400px;
+}
